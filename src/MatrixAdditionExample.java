@@ -1,4 +1,4 @@
-    public class MatrixAdditionExample{  
+    class MatrixAdditionExample{  
     public static void main(String args[]){  
     //creating two matrices    
     int a[][]={{1,3,4},{2,4,3},{3,4,5}};    
